@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Saiafarm Project</title>
+    <link>https://saiafarm.github.io/</link>
+    <description>Recent content on The Saiafarm Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Nov 2021 15:00:54 +0100</lastBuildDate><atom:link href="https://saiafarm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Student projects</title>
+      <link>https://saiafarm.github.io/thesis_ideas/</link>
+      <pubDate>Wed, 24 Nov 2021 11:56:40 +0100</pubDate>
+      
+      <guid>https://saiafarm.github.io/thesis_ideas/</guid>
+      <description>Project Ideas for ITU students Are you a student looking for a research project? Contact Professor Yvonne Dittrich directly for more information.
+Not an ITU student? Send an email with a short description of your academic background to Benjamin Schwetz and we will see if we can make the logistics work.</description>
+    </item>
+    
+    <item>
+      <title>About us</title>
+      <link>https://saiafarm.github.io/about/</link>
+      <pubDate>Wed, 24 Nov 2021 11:43:31 +0100</pubDate>
+      
+      <guid>https://saiafarm.github.io/about/</guid>
+      <description>The project Farming in the Himalayas depends on natural water resources, which poses a challenge during seasons with scarce rainfall when irrigation from rivers and creeks is necessary. With SaIAFarm, we are developing irrigation advisories based on satellite image analysis for farmers in Himachal Pradesh, India.
+The project is a collaboration between the Indian Institute of Technology in Mandi, ITU-researchers and the Danish Hydrological Institue (DHI):
+IIT Mandi IIT Mandi a Indian elite university with a specific focus on design and innovation of technologies for an Indian context.</description>
+    </item>
+    
+    <item>
+      <title>SaIAFarm is starting</title>
+      <link>https://saiafarm.github.io/news/press_release/</link>
+      <pubDate>Wed, 29 Sep 2021 09:43:00 +0100</pubDate>
+      
+      <guid>https://saiafarm.github.io/news/press_release/</guid>
+      <description>For the start of the project, ITU spoke with Professor Yvonne Dittrich about the challenges ahead and how we plan to adapt satelite image analysis to support Mid-Himalayan farmers:
+Read the full article: in English or in Danish.</description>
+    </item>
+    
+  </channel>
+</rss>
